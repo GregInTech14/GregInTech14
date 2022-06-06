@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GregInTech14
-- 👀 I’m interested in Arts(Photography/Poetry) and Sports(Basketball/
-- 🌱 I’m currently learning JavaScript
+- 🌱 A JavaScript Developer branching out
+- 👀 I’m interested in Anime, Arts, and Sports
 - 💞️ I’m looking to collaborate on any and everything beneficial
-- 📫 How to reach me email.
+- 📫 How to reach me email (jeanlouisgregoryf@gmail.com)
+- 
 
 <!---
 GregInTech14/GregInTech14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
